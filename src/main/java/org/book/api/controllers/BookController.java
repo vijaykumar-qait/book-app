@@ -12,7 +12,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/book")
+@RequestMapping("/app")
 public class BookController {
     private static final Logger logger = LoggerFactory.getLogger(BookController.class);
 
